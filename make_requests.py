@@ -13,7 +13,7 @@ for i in range(40):
 
   headers = {
     'Content-Type': 'application/json',
-    'token': 'HCzjGfPFPOmgmuVhWIShKinezlgcyMxg'
+    'token': 'XXXXXXXXXXXX'
   }
 
   response = requests.request( 'GET',url, headers=headers, params = params)
